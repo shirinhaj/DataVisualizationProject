@@ -26,7 +26,7 @@ pip install -r requirements.txt
 <h1>Step 4: Running the Project</h1>
 
 1. With the virtual environment activated, you can now run your Python project by executing the Jupyter Notebook.
-2. Enjoy exploring the data visualization functionalities of your project!
+2. Enjoy exploring the data visualization functionalities of the project!
 
 
 Note:
