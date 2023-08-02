@@ -13,12 +13,6 @@ Download or clone the "DataVisualizationProject" folder into your desired locati
 4. Inside the notebook, modify the base_folderPath variable by providing the correct path to the "DataVisualizationProject" folder on your system. For example, if you placed the "DataVisualizationProject" folder in "D:/MyPythonProjects," update the base_folderPath to "D:/MyPythonProjects/DataVisualizationProject."
 
 
-5. Navigate to the "DataVisualizationProject" folder using the File menu or the integrated terminal in VS Code.
-
-6. Open the Jupyter Notebook file named "TwoDataVisualizarionInteraction.ipynb" from the folder.
-
-7. Inside the notebook, modify the base_folderPath variable by providing the correct path to the "DataVisualizationProject" folder on your system. For example, if you placed the "DataVisualizationProject" folder in "D:/MyPythonProjects," update the base_folderPath to "D:/MyPythonProjects/DataVisualizationProject."
-
 <h1>Step 3: Virtual Environment Setup</h1>
 1. Create a virtual environment named "VisualizationEnv" in your project folder by running the following command in the terminal:
 python -m venv VisualizationEnv
